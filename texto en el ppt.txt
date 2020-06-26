@@ -1,0 +1,39 @@
+Definimos la Ing de software como una rama de la ingenieria de sistemas, enfocada en el desarrollo y costeo de sistemas software a travez del uso de tecnicas y metodos
+que puedan controlar la gran complejidad que estos presentan.
+
+Establecido que el producto software es complejo en su desarrollo, cualquier error que este presente en cualquiera de sus etapas de desarrollo conllevaria en desarrollar
+un producto ineficiente e incluso a la cancelacion del proyecto en etapas tempranas de su realizacion.
+
+Fredd Brooks, en su articulo denominado "No Silver Bullet", realiza una comparacion de las complejidad del software como la existencia de un hombre lobo, el cual puede
+convertirse en un monstruo hasta el punto que no podamos tener control sobre el. Esta comparacion se basa en algunas caracteristicas que posee el software, las cuales
+son:
+	*Complejidad en si mismo.
+	*Conformidad: el software se debe adaptar al entorno, jamas al revez.
+	*Mutabilidad: debido a que es un producto intagible, es posible destruirlo y reconstruir nuevamente, a diferencia con otros como una casa. Sin embargo, esta 
+		caracteristica brinda una presion por parte del usuario, ya que a medida que este conforme con el software, no tardara mucho en solicitar cambios o 
+		funcionalidades nuevas.
+Otros problemas van surgiendo a medida que se desarrolla el software:
+	*Lenguajes de alto nivel: trataran de aproximarse a la forma intelectual del usuario para resolver problemas. Pero estas esconden complejidad accidental del 
+		programa compilado, ya sea en registros, condiciones, bifurcaciones, etc.
+	*Tiempo compartido en la ejecucion: compartir el tiempo de ejecución entre procesos para evitar los accidentes de programas batch para mejorar la sensación 
+		del tiempo de respuesta.
+	*Entornos de programacion unificados: ejemplo de UNIX (vienen con bibliotecas integradas, formatos unificados, etc.) combaten los accidentes de tener 
+		aplicaciones que resuelvan en forma individual las problemáticas comunes.
+
+Por fortuna, el pasar de los años aporto nuevos metodos y tecnicas en beneficio de la ingenieria de software, estas caracteristicas conformaran las balas de plata que 
+nos proporcionaran un control a este hombre lobo:
+	*Programación Orientada a Objetos
+	*Sistemas Expertos: se basa en un motor de inferencias y una base de reglas y aserciones, sugiriendo interfaces, estrategias de testing, etc. Ausencia de un 
+		experto
+	*Programación “Automática”: construir generadores de códigos.
+	*Programación Visual: se basó en la problemática del estado de los monitores en esos años.
+	*Verificación de Programas: detectar errores desde la etapa de diseño o desde antes, en camino hacia la construcción.
+	*Entornos y Herramientas: buscar características como editores inteligentes que permitan reducir errores sintácticos, así como en otras características.
+	*Comprar contra Construir: con un buen conocimiento, se bajaran ahorros en costos del proyecto si adquirimos otros paquetes de software, en lugar de lidiar 
+		con fases de construcción y mantenimiento.
+	*Refinamientos de Requisitos y un Rápido Prototipito: el usuario se sentirá más seguro si va probando distintos prototipos en forma iterativa y los refina 
+		incrementalmente (Proceso Unificado).
+
+Ademas de la complejidad en si que presenta el software, W. Gibbs en su articulo "Software Chronic Crisis" establece que el software esta en una crisis cronica: "el 
+software esta constantemente afrontando cambios, los cuales si no se toman precauciones pertinenentes podrian dar resultados no deseados".
+
