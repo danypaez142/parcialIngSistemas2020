@@ -37,3 +37,15 @@ nos proporcionaran un control a este hombre lobo:
 Ademas de la complejidad en si que presenta el software, W. Gibbs en su articulo "Software Chronic Crisis" establece que el software esta en una crisis cronica: "el 
 software esta constantemente afrontando cambios, los cuales si no se toman precauciones pertinenentes podrian dar resultados no deseados".
 
+Estos cambios vienen acompañados a unas caracteristicas, las cuales el software (de gran tamaño en este caso) puede llegar:
+	*Sistemas Distribuidos y en Tiempo Real: desarrollar este tipo de sistemas es complejo y con más rutas de fracaso.
+	*La Comprensión Humana: ninguna persona sola puede entender por completo un gran proyecto.
+	*Crecimiento de la Complejidad a nivel Hardware.
+	*Falta de Estandarización de Interfaces y Métodos de construcción.
+	*Falta de medición de Tiempo y Costo: ambos tiempos difíciles de estimar, sin el conocimiento  de las capacidades de la organización.
+
+Se necesita a la Ingeniería de Software porque: el desarrollo del software es pre-industrial (cada pieza es única, los desarrolladores usan poca estandarización) y la 
+calidad del software requiere un proceso coherente (como el armado de una casa, desde los cimientos al techo).
+
+De esta forma se puede definir a la Ingeniería de Software como la aplicación de un enfoque disciplinado, cuantificable, sistemático; para el desarrollo, operación y 
+mantenimiento del software.
